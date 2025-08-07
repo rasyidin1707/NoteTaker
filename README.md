@@ -64,7 +64,7 @@ text
 
 Your app will be live (after you set up `homepage` and deployment scripts in `package.json`) at:
 
-https://rasyidin1707.github.io/note_taker_app
+https://rasyidin1707.github.io/NoteTaker
 
 text
 
